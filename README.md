@@ -15,7 +15,7 @@
 - Add comments to your Python script to explain how it works.
 - Take a short video of your stoplight working and a clear top-down photo of your wiring
 
-- [ ] Upload `led_stoplight.py`, the video, and the photo to this repository then continue to Part II
+- [x] Upload `led_stoplight.py`, the video, and the photo to this repository then continue to Part II
 
 ## Part III - RBG LED  
 
@@ -25,7 +25,7 @@
 - Add comments to your Python script to explain how it works.
 - Take a clear top-down photo of your wiring
 
-- [ ] Upload `rgb_stoplight.py` and your photo then continue to Part IV
+- [x] Upload `rgb_stoplight.py` and your photo then continue to Part IV
 ## Part IV - Starting with a Button
 
 - In a new script `button_stoplight.py`, add a button or touch module to your project to start your RGB stoplight. When the button is pressed the light should light up in the green, yellow, red pattern.
@@ -33,7 +33,7 @@
 - In order to use a button, set the `S` pin to an input with `GPIO.setup(pin_number, GPIO.IN)`. It the button is pressed, `GPIO.input(pin_number)` will be equal to 0. If it is unpressed, `GPIO.input(pin_number)` will be equal to 1.
 - Take a short video of your button starting the stoplight and the pattern appearing correctly
 
-- [ ] Upload `button_stoplight.py`  and the video to this repository then continue to Part V - Wrap Up
+- [x] Upload `button_stoplight.py`  and the video to this repository then continue to Part V - Wrap Up
 ## Part V - Wrap Up
 
 - Make sure all the deliverables above are  uploaded to the repository
@@ -44,7 +44,7 @@
 2. What does it mean for elements of a circuits to be in series vs. in parallel?
 
 3. Can you create a circuit of 3 light bulbs in series? Why or why not?
-
+[x]
 
 ## Rubric 
 
