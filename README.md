@@ -44,8 +44,7 @@
 2. What does it mean for elements of a circuits to be in series vs. in parallel?
 
 3. Can you create a circuit of 3 light bulbs in series? Why or why not?
-- [x]
-
+ 
 ## Rubric 
 
 _Course Content_
